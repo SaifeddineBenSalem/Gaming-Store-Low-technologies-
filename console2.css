@@ -1,0 +1,29 @@
+body{
+  background-image: url('image/bgP.png');
+}
+.card:hover {
+  transform: scale(1.1);
+}
+.card {
+  transition: transform 0.5s;
+  text-align: center;
+  height: 380px;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.card-img-top{
+  height: 250px;
+  background-color: gainsboro;
+}
+.cha{
+  width: 20px;
+  height: 20px;
+}
+.card-body{
+  background-color: grey;
+  color: white;
+}
