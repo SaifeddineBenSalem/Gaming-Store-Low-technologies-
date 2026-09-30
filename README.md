@@ -2,6 +2,11 @@
 
 A small, static gaming and computer store front end built with HTML, CSS, and JavaScript. The site presents video games, computers, consoles, and accessories, and includes a contact form for questions and purchase enquiries.
 
+## Photos
+
+![Home page](photos/home.png)
+![PC](photos/pc.png)
+![Contact us](photos/contact-us.png)
 ## Features
 
 - Home page with featured games and accessories.
